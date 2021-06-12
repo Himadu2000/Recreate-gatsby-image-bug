@@ -21,7 +21,7 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     // This is not working
-    // `gatsby-plugin-image`,
+    `gatsby-plugin-image`,
     {
       resolve: require.resolve(`@nrwl/gatsby/plugins/nx-gatsby-ext-plugin`),
       options: {
