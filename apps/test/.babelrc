@@ -4,7 +4,8 @@
       "@nrwl/gatsby/babel",
       {
         "reactRuntime": "automatic"
-      }
+      },
+      "@babel/preset-react"
     ]
   ],
   "plugins": []
